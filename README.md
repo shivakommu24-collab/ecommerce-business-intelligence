@@ -21,3 +21,10 @@ Olist Brazilian E-Commerce Public Dataset from Kaggle.
 
 ## Project Status
 Data preparation completed. Analysis and dashboard development in progress.
+## Dashboard
+Created an interactive Power BI dashboard featuring:
+- Revenue and order KPIs
+- Monthly revenue trend
+- Product category analysis
+- Payment method analysis
+- Customer state analysis
