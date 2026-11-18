@@ -28,3 +28,6 @@ Created an interactive Power BI dashboard featuring:
 - Product category analysis
 - Payment method analysis
 - Customer state analysis
+- ## Dashboard Preview
+
+![Olist Dashboard](olist-dashboard.png)
